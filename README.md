@@ -25,8 +25,8 @@ Handle any potential errors during the transcribing process. If the audio is not
 
 ## Program:
 ```
-Developed by: Yuvadarshini S
-Register number: 212221230126
+Developed by: SV ROHITHKUMAR
+Register number: 212221230084
 ```
 ~~~
 import speech_recognition as sr
